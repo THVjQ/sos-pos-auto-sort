@@ -1,10 +1,6 @@
 SOSPOS Auto Sort
 
-Sort ticket in SOSPOS 
-Button Bottom Right of SOS POS
-
-Click once: Repairing Tickets Only - Todays Tickets  <--> Storage
-Hold: Moves all ticket that cant be in the Todays Ticket <--> Sotrage allowing for the day to be balanced easily
+On Refresh all tickets in SOSPOS are sorted by Status and ticket number
 
 How to Use Install TamperMonkey and add in a new file (replace Templete)
 
